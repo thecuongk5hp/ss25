@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Quét nhà",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "name": "Nấu cơm",
+      "completed": false
+    },
+    {
+      "name": "code",
+      "completed": false,
+      "id": 3
+    }
+  ]
+}
